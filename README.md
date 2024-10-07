@@ -20,11 +20,20 @@ git clone https://github.com/YourUsername/bluefly-clone.git
 ** Navigate to the project directory:
 
 cd bluefly-clone
-Install dependencies:
+
+
+** Install dependencies:
 
 npm install
-Start the development server:
+
+
+** Start the development server:
 
 npm start
-Deployment
+
+
+
+** Deployment
+
+
 You can view the live project here (https://bluefly-webpage.vercel.app/)
